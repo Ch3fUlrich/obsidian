@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "1ba6c7d11fb5ddb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2d1b8a87f11ac38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92f7fdfe464539a4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d1c6ed8f3eac7387",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca3a9ef6b8092126",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "167efc4dc53363aa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d6a8c6b1fd31e041",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6f741bf78b2cfb96",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "f892f73c502d5151",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 209.5
+  },
+  "right": {
+    "id": "d0083d246d90a3ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "493a5ef0f1fc6b71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20bf7f9b01a974da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Todo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Todo"
+            }
+          },
+          {
+            "id": "71e2a47e97ae66d2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Todo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Todo"
+            }
+          },
+          {
+            "id": "3515d9efa479d010",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e074197b7e028831",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Todo.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Todo"
+            }
+          },
+          {
+            "id": "b744f67532306c0d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "450987835b41c8d5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "167efc4dc53363aa",
+  "lastOpenFiles": [
+    "github/Todo.md",
+    "github/Log.md",
+    "github/Word Definitions/Topological data analysis (TDA).md",
+    "github/Word Definitions/Discovery Driven.md",
+    "github/Word Definitions/Hypothesis Driven.md",
+    "github/Word Definitions",
+    "github/Projects/PhD/Project Plan (CA3 data compression).md",
+    "github/Projects/PhD/Computation Sources.md",
+    "github/Projects/Supplement-Routine.md",
+    "github/Projects/Muscles",
+    "github/Projects/PhD",
+    "github/Projects/Family",
+    "github/Projects",
+    "github/Pictures/Pasted image 20240409094936.png",
+    "github/Pictures/Pasted image 20240409092331.png",
+    "github/Pictures/Pasted image 20240219150059.png",
+    "github/Pictures/Pasted image 20240409092047.png",
+    "github/Pictures/Pasted image 20240222131633.png",
+    "github/Pictures/Pasted image 20240222131618.png",
+    "github/Pictures/Pasted image 20240222113329.png",
+    "github/Pictures/Pasted image 20240219150233.png",
+    "github/Pictures/Pasted image 20240219145912.png",
+    "github/Pictures/Pasted image 20240219150029.png",
+    "github/Pictures",
+    "github/PhD/Pub Quiz Team Name .........................................md",
+    "github/PhD",
+    "github/Notes/Presentation Notes before 2025.md",
+    "github/Notes/Biozentrum Symposium 2025.md",
+    "github/Notes",
+    "github/Knowledge/Software",
+    "github/Knowledge/Math/Analysis/Analysis Types.md",
+    "github/Knowledge/Math/Manifolds/CEBRA.md",
+    "github/Knowledge/Math/Analysis",
+    "github/Knowledge/Body/Übelkeit, Verstopfung.md",
+    "github/Knowledge/Body/Wound healing (mostly skin).md",
+    "github/Knowledge/Body/Training weight.md",
+    "github/Knowledge/Body/Testosterone.md",
+    "github/Knowledge/Body/Sleep.md",
+    "github/Knowledge/Body/SERMs.md",
+    "github/Knowledge/Body/SARMs.md",
+    "github/Knowledge/Body/Nerve regeneration after Injury (severed or crushed).md",
+    "github/Knowledge/Body/Muscle Fat Loss Calculator.md",
+    "github/Knowledge/Body/Muscle Building.md",
+    "github/Knowledge/Body/Methionine (AS).md",
+    "github/Knowledge/Body/Memory Improvement.md",
+    "github/Knowledge/Body/Melatonin.md",
+    "Untitled.canvas"
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "d3e785698e16947b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1eea2f88aea65c06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0275e8db66d4107",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Log.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Log"
+            }
+          },
+          {
+            "id": "aa0baaa73e3c39ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Todo"
+            }
+          },
+          {
+            "id": "1ecd6bdbfefbcd0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dry Eyes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dry Eyes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "818f505a2e122e94",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1008afe93ff56d87",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "fe35bc13a016a5eb",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "03bf1c2117f98971",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "f6417c0caeddb966",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "1ff0688f65a2a472",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "73ba8387dfb4fd5f",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {},
+          "icon": "clock",
+          "title": "Recent Files"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "abb71fa62d9e1738",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8caba4799c376152",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Log.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "aa7f31095a1d04ce",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Log.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "1da3c5973f01118f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Log.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "e0275e8db66d4107",
+  "lastOpenFiles": [
+    "Dry Eyes.md",
+    "Todo.md",
+    "Log.md",
+    "Knowledge/Body/Testosterone.md",
+    "Pictures/Pasted image 20240222131618.png",
+    "Pictures/Pasted image 20240222131633.png"
+  ]
+}

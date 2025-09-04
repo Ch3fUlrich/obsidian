@@ -1,0 +1,2 @@
+lipopolysaccharides 
+major component of the outer membrane of gut gram-negative bacteria and its presence in circulation often indicates gut permeability, thus a disruption of intestinal mucus (Turner, 2009).
